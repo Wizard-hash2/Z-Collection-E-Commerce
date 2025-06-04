@@ -1,13 +1,15 @@
 # Z Collection 
 
+Deployed on: https://zcollection.netlify.app/
+
 # Project Overview
 The Z Collection E-Commerce website is an online platform for selling clothes for both men and women. The goal is to upgrade from manual to automatic to reach a larger audience.
 
 # Problem Statement
-The owner of Z Collection wanted to automate the process of updating product pictures on the website and notify customers through WhatsApp and also reach the larget home audience
+The owner of Z Collection wanted to automate the process of updating product pictures on the website and notify customers through WhatsApp and also reach the larget home audience and also reach the larger audience
 
 # Solution
-I, an AI software engineer, created a website using a notify app and linked it with Zap to automate the process of updating product pictures and notifying customers.
+I, a software engineer, created a website using a notify app and linked it with Zapier to automate the process of updating product pictures and notifying customers.
 
 # Key Features
  - Automated updating of product images on the website
