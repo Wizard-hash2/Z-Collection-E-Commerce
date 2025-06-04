@@ -9,10 +9,10 @@ The owner of Z Collection wanted to automate the process of updating product pic
 # Solution
 I, an AI software engineer, created a website using a notify app and linked it with Zap to automate the process of updating product pictures and notifying customers.
 
-Key Features
-Automated updating of product images on the website
+# Key Features
+ - Automated updating of product images on the website
 
-WhatsApp notifications for customer engagement
+ - WhatsApp notifications for customer engagement
 
  - Scalable and user-friendly e-commerce platform
 
@@ -26,7 +26,7 @@ For reporting issues or proposing new features, please contact:
 
 This project is released under the MIT License.
 
-#Contact Information
+# Contact Information
 
 Email: aronidengeno@gmail.com
 
